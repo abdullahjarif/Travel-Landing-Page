@@ -1,2 +1,2 @@
 # Travel-Landing-Page
-Using Flexbox with CSS and HTML.
+Project: Using Flexbox with CSS and HTML.
